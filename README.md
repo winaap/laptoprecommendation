@@ -5,5 +5,5 @@ This application provides insightful visualizations and personalized recommendat
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/winaap/laptoprecommendation.git
+   cd laptoprecommendation
