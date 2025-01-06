@@ -1,0 +1,699 @@
+name,processor,ram,os,storage,display(in inch),rating,no_of_ratings,no_of_reviews,price(in Rp.),brand,ram_size,ram_type,processor_brand,storage_size,storage_type,cluster,cluster_label
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,4733.0,463.0,9443610.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS VivoBook 15 (2022) Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,10406.0,1040.0,6421050.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Athlon Dual Core,AMD Athlon Dual Core Processor,4 GB DDR4,DOS,256 GB SSD,14.0,3.8,18.0,3.0,3587400.9,Lenovo,4,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2020 Macbook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,8865.0,795.0,16433280.9,Apple,8,DDR4,Apple,256 GB,SSD,0,General Purpose
+ASUS VivoBook 14 (2021) Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.1,790.0,95.0,4531950.9,Asus,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,112.0,8.0,6422751.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+RedmiBook Pro Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,3955.0,462.0,7365600.899999999,Redmibook,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 3 Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.2,381.0,76.0,5098680.9,Acer,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 14 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,5.0,4.0,0.0,12655080.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 15 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,257.0,26.0,7176690.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,137.0,18.0,10765980.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Vostro Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.1,143.0,11.0,7554510.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+realme Book (Slim) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.0,4.4,12584.0,1870.0,8876880.9,Realme,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+HP 14s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,14.0,4.2,1779.0,160.0,7176690.899999999,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,328.0,34.0,9279825.93,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Bravo 15 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,2239.0,299.0,9065790.9,Msi,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS Zenbook Flip 14 OLED (2022) Touch Panel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,14.0,4.4,9.0,0.0,16340715.0,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2020 Macbook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,8865.0,795.0,16433280.9,Apple,8,DDR4,Apple,256 GB,SSD,0,General Purpose
+HP 15s Intel Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,93.0,17.0,8499060.9,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,68.0,7.0,10010340.9,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 3 Quad Core 5300U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,1911.0,208.0,7365600.899999999,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,14.0,4.2,870.0,66.0,6402159.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,19.0,0.0,6421050.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Athlon Dual Core 3050U,AMD Athlon Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,14.0,4.0,754.0,79.0,5098680.9,Hp,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,1979.0,202.0,8672669.19,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook K15 OLED (2022) Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,1233.0,149.0,9443610.9,Asus,8,DDR4,AMD,1 TB,HDD,0,General Purpose
+HP 15s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,388.0,40.0,7735864.5,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,512 GB SSD,15.6,4.4,127.0,16.0,18889110.9,Asus,16,DDR5,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Pro 15 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,870.0,105.0,11332710.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP 15s Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,2011.0,167.0,10960180.38,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+SAMSUNG Galaxy Book Go Snapdragon 7c Gen 2,Qualcomm Snapdragon 7c Gen 2 Processor,4 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.2,109.0,18.0,6232140.899999999,Samsung,4,LPDDR4X,Qualcomm,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,128.0,21.0,10199250.9,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+acer Swift 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.5,325.0,52.0,12277260.9,Acer,8,LPDDR4X,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+realme Book (Slim) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.0,4.4,12584.0,1870.0,8876880.9,Realme,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+ASUS TUF Gaming F17 (2022) with 90Whr Battery Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,17.3,4.3,59.0,11.0,20778210.9,Asus,16,DDR5,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,301.0,22.0,12867415.74,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 14 Pentium Silver,Intel Pentium Silver Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.1,233.0,32.0,4909770.9,Asus,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+acer Extensa Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,741.0,84.0,6421050.899999999,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 14 (2022) Ryzen 5 Quad Core AMD R5,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,431.0,39.0,7365600.899999999,Asus,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,28.0,0.0,12843990.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,389.0,44.0,7743420.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+realme Book (Slim) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.0,4.4,12584.0,1870.0,8876880.9,Realme,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 15 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,206.0,20.0,9443610.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Zenbook 14X (2022) Space Edition Core i9 12th Gen,Intel Core i9 Processor (12th Gen),32 GB LPDDR5,Windows 11,1 TB SSD,14.0,4.7,6.0,2.0,30223710.9,Asus,32,LPDDR5,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Alpha 15 AMD Advantage Edition Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,413.0,63.0,14166360.9,Msi,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,1087.0,131.0,11710530.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 14 (2022) Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,5.0,7.0,2.0,8876880.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,3.8,25.0,2.0,10954890.9,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Aspire 7 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,5533.0,674.0,9821430.9,Acer,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2020 Macbook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,8865.0,795.0,16433280.9,Apple,8,DDR4,Apple,256 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook K15 OLED (2022) Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.3,652.0,85.0,12277260.9,Asus,16,DDR4,Intel,1 TB,HDD,3,Mid-Range (Work/Productivity)
+HP Pavilion Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,327.0,51.0,12277260.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,107.0,11.0,6798870.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,3.9,37.0,1.0,7233363.899999999,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,2 TB SSD,15.6,3.7,1671.0,226.0,3398490.9,Asus,4,LPDDR4,Intel,2 TB,SSD,1,Budget (School/Basic Use)
+ASUS Chromebook Flip Touch Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,2 TB SSD,11.6,4.0,1853.0,287.0,3020670.9,Asus,4,LPDDR4,Intel,2 TB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,3.6,5.0,0.0,8121240.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 16X Ryzen 5 Hexa Core R5,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,16.0,4.9,7.0,0.0,10388160.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Infinix X1 Slim Series Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,14.0,4.3,4379.0,580.0,5854320.899999999,Infinix,8,LPDDR4X,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,14.0,4.0,57.0,10.0,9632520.9,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.8,19.0,1.0,15110910.9,Asus,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Aspire 3 Dual Core 3020e,AMD Dual Core Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.1,694.0,67.0,4326039.0,Acer,4,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 1 Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,778.0,78.0,6375901.41,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 15 OLED (2022) Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,23.0,5.0,9632520.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS VivoBook 15 (2021) Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,564.0,55.0,8687970.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,142.0,11.0,11806686.09,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR5,Windows 11,512 GB SSD,15.6,4.5,97.0,10.0,14545881.09,Asus,8,DDR5,Intel,512 GB,SSD,0,General Purpose
+ASUS Vivobook 15 Touch Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,146.0,14.0,9821430.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Athlon Dual Core 3050U,AMD Athlon Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,947.0,100.0,6232140.899999999,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook K15 OLED (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,624.0,90.0,8687970.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP OMEN Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 11,1 TB SSD,16.1,5.0,3.0,1.0,16718346.09,Hp,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Pro 15 OLED Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,715.0,112.0,12466170.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Sword 15 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.7,62.0,17.0,16244370.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2022 MacBook AIR M2,Apple M2 Processor,8 GB,Mac OS Operating System,512 GB SSD,13.6,4.3,32.0,1.0,26445510.9,Apple,8,,Apple,512 GB,SSD,0,General Purpose
+APPLE 2022 MacBook AIR M2,Apple M2 Processor,8 GB,Mac OS Operating System,256 GB SSD,13.6,4.8,45.0,5.0,21439395.9,Apple,8,,Apple,256 GB,SSD,0,General Purpose
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+APPLE 2022 MacBook AIR M2,Apple M2 Processor,8 GB,Mac OS Operating System,256 GB SSD,13.6,4.7,50.0,3.0,21533850.9,Apple,8,,Apple,256 GB,SSD,0,General Purpose
+ASUS Vivobook S14 OLED (2022) Intel EVO Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,1266.0,172.0,14166360.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming A15 with 90Whr Battery Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,174.0,22.0,17000010.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP 14s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,3572.0,327.0,7932330.899999999,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook Flip 14 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.6,25.0,1.0,12088350.9,Asus,8,LPDDR4X,Intel,512 GB,SSD,0,General Purpose
+HP Envy x360 Creator Intel Evo Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,13.4,4.7,6.0,1.0,16433280.9,Hp,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,5.0,3.0,1.0,11710530.9,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming A17 (2022) with 90Whr Battery Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,17.3,4.7,13.0,1.0,16811100.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,1087.0,131.0,11710530.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,374.0,46.0,14544180.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+APPLE MacBook Air M1,Apple M1 Processor,16 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,719.0,83.0,19833660.9,Apple,16,DDR4,Apple,256 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,41.0,3.0,14922000.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,187.0,16.0,12088350.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR5,Windows 11,512 GB SSD,15.6,4.5,97.0,10.0,14545881.09,Asus,8,DDR5,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 15 OLED (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,11.0,1.0,13032900.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Aspire 7 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,3065.0,354.0,10954890.9,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,15.6,4.5,136.0,16.0,18133470.9,Asus,16,DDR5,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,41.0,3.0,14922000.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+realme Book(Slim) Intel Evo Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.4,7200.0,967.0,11332710.9,Realme,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP 14s Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,1346.0,124.0,11599074.0,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix X1 Slim Series Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.2,713.0,103.0,7176690.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,27.0,3.0,14559293.7,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 14 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,18.0,1.0,10765980.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 7 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,5533.0,674.0,10765980.9,Acer,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.2,440.0,40.0,8026785.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Predator Helios 300 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB HDD|512 GB SSD,15.6,4.5,473.0,71.0,18133470.9,Acer,16,DDR4,Intel,1 TB,HDD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.1,15.0,3.0,8366823.899999999,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,218.0,19.0,12005230.5,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Core i9 12th Gen,Intel Core i9 Processor (12th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.4,29.0,8.0,22667310.9,Msi,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+APPLE MacBook Air M1,Apple M1 Processor,16 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.7,719.0,83.0,24556410.9,Apple,16,DDR4,Apple,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HS,AMD Ryzen 9 Octa Core Processor,16 GB DDR5,Windows 11,1 TB SSD,15.6,3.8,5.0,1.0,30601530.9,Asus,16,DDR5,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Infinix INBook X2 Plus Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.5,6.0,1.0,9065790.9,Infinix,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL G15 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,52.0,9.0,13977450.9,Dell,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2021 Macbook Pro M1 Max,Apple M1 Max Processor,32 GB,Mac OS Operating System,1 TB SSD,16.2,4.3,13.0,5.0,58182390.9,Apple,32,,Apple,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ASUS Touchscreen Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,16.0,0.0,8687970.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Celeron Dual Core,Intel Celeron Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.0,108.0,11.0,5287590.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+MSI Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,2547.0,319.0,11721865.5,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Infinix INBook X2 Plus Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.3,26.0,6.0,10010340.9,Infinix,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.1,15.0,3.0,8366823.899999999,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 7 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,3065.0,354.0,10954890.9,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook Pro 15 OLED Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,715.0,112.0,12466170.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 14 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,18.0,1.0,10765980.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Inspiron Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,78.0,3.0,7781202.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,30.0,2.0,10954890.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Victus Intel Core i7 12th Gen,Intel Core i7 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,61.0,7.0,16244370.9,Hp,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,2648.0,228.0,10577070.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook Flip 14 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,14.0,4.4,144.0,13.0,8499060.9,Asus,8,LPDDR4X,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Pentium Silver,Intel Pentium Silver Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.1,329.0,32.0,6045120.0,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Zenbook 14 OLED (2022) Intel EVO Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,14.0,4.0,24.0,5.0,17000010.9,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.0,24.0,2.0,16794099.0,Hp,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 15 Touch Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,348.0,47.0,7932330.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.3,222.0,28.0,8404605.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,8.0,0.0,9065790.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+SAMSUNG Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,6.0,0.0,13788540.9,Samsung,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook Flip 14 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,14.0,4.4,144.0,13.0,8499060.9,Asus,8,LPDDR4X,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,1 TB SSD,15.6,4.5,121.0,7.0,12466170.9,Asus,8,DDR4,Intel,1 TB,SSD,0,General Purpose
+realme Book(Slim) Intel Evo Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.4,7200.0,967.0,11332710.9,Realme,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook K15 OLED Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,758.0,80.0,10765980.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP G8 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.0,66.0,2.0,6553287.899999999,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro Processor,16 GB,Mac OS Operating System,1 TB SSD,14.2,4.8,119.0,14.0,40406715.54,Apple,16,,Apple,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 15 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,193.0,17.0,6798870.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,225.0,18.0,9539766.09,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+acer Extensa Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,168.0,8.0,7743420.899999999,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,13.3,4.5,8.0,0.0,14770872.9,Dell,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Ryzen 3 Quad Core 5425U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,9.0,1.0,8215695.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,225.0,18.0,9539766.09,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 15 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,157.0,16.0,9443610.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP G8 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.0,66.0,2.0,6553287.899999999,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,512 GB SSD,15.6,5.0,3.0,0.0,18889110.9,Dell,16,DDR5,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Ryzen 5 Quad Core 3450U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 11,256 GB SSD,14.0,3.8,5.0,1.0,6987780.899999999,Dell,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook K15 OLED Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,758.0,80.0,10765980.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2022 MacBook Pro M2,Apple M2 Processor,8 GB,Mac OS Operating System,256 GB SSD,13.3,4.7,22.0,1.0,23045130.9,Apple,8,,Apple,256 GB,SSD,0,General Purpose
+ASUS ROG Strix G15 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,1224.0,158.0,16622190.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 1 Ryzen 5 Quad Core 3500U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,673.0,76.0,8104239.0,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,5.0,7.0,1.0,16716645.9,Dell,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook 14 (2022) Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,12.0,2.0,8876880.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,15.6,4.4,80.0,12.0,17000010.9,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.0,5.0,0.0,26634420.9,Msi,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+APPLE MacBook Air M1,Apple M1 Processor,16 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,719.0,83.0,20117025.9,Apple,16,DDR4,Apple,256 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Chromebook x360 Intel Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,256 GB SSD,14.0,4.2,24.0,4.0,4909770.9,Hp,4,LPDDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,15.6,4.4,80.0,12.0,17000010.9,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Pro 15 OLED Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,15.6,4.4,80.0,12.0,17000010.9,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.0,5.0,0.0,26634420.9,Msi,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+APPLE MacBook Air M1,Apple M1 Processor,16 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,719.0,83.0,20117025.9,Apple,16,DDR4,Apple,256 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL G15 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR5,Windows 11,512 GB SSD,15.6,4.1,35.0,5.0,15110910.9,Dell,8,DDR5,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,187.0,16.0,13788540.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,218.0,19.0,12005230.5,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,4.0,1.0,14455204.29,Dell,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS Vivobook 15 Ryzen 3 Dual Core AMD R3,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,405.0,48.0,6609960.899999999,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.2,435.0,56.0,7184058.39,Dell,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+APPLE MacBook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.7,8865.0,795.0,19833660.9,Apple,8,DDR4,Apple,512 GB,SSD,0,General Purpose
+HP Chromebook x360 Intel Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,14.0,4.2,24.0,4.0,4909770.9,Hp,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Pentium Quad Core,Intel Pentium Quad Core Processor,4 GB DDR4,Windows 10,1 TB HDD,15.6,3.7,3191.0,410.0,4531950.9,Asus,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Extensa Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.4,385.0,34.0,6043230.899999999,Acer,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,17.0,3.0,9424719.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook Flip 14 (2022) Touch Panel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,10.0,1.0,14166360.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,43.0,4.0,11389383.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE MacBook Air M1,Apple M1 Processor,16 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.7,719.0,83.0,23989680.9,Apple,16,DDR4,Apple,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,5145.0,564.0,11521620.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,395.0,43.0,12277260.9,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Ryzen 3 Quad Core 5425U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,43.0,3.0,7837875.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,4.5,97.0,10.0,14733090.9,Asus,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming F15 (2022) Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,4.4,41.0,6.0,17851995.0,Asus,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Strix G15 Advantage Edition Ryzen 9 Octa Core AMD R9,AMD Ryzen 9 Octa Core Processor,16 GB DDR4,Windows 10,1 TB SSD,15.6,4.6,265.0,56.0,29279160.9,Asus,16,DDR4,AMD,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,90.0,11.0,14166360.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming A15 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,1 TB SSD,15.6,4.5,258.0,29.0,12466170.9,Asus,8,DDR4,AMD,1 TB,SSD,0,General Purpose
+ASUS Pentium Quad Core,Intel Pentium Quad Core Processor,4 GB DDR4,Windows 10,1 TB HDD,15.6,3.7,3191.0,410.0,4531950.9,Asus,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2020 Macbook Pro M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,256 GB SSD,13.3,4.7,784.0,87.0,21722760.9,Apple,8,DDR4,Apple,256 GB,SSD,0,General Purpose
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,313.0,31.0,12088350.9,Acer,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Katana GF66 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,21.0,3.0,15299820.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP 15s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.4,80.0,11.0,7460055.899999999,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Strix SCAR 15 (2022) Core i9 12th Gen,Intel Core i9 Processor (12th Gen),32 GB DDR5,Windows 11,1 TB SSD,15.6,5.0,4.0,0.0,53270730.9,Asus,32,DDR5,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 11,256 GB SSD,14.0,3.9,13.0,0.0,5962188.51,Lenovo,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 14 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,3.7,13.0,3.0,9254700.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Gaming Ryzen 5 Quad Core 3550H,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,1 TB HDD,15.6,4.2,15492.0,2054.0,10388160.9,Hp,8,DDR4,AMD,1 TB,HDD,0,General Purpose
+APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro Processor,16 GB,Mac OS Operating System,1 TB SSD,16.2,4.8,119.0,14.0,46092150.9,Apple,16,,Apple,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,26.0,2.0,7913439.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook K15 OLED (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.4,1443.0,248.0,8121240.899999999,Asus,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+MSI Crosshair 15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,14.0,1.0,19833660.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Legion 5 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,148.0,19.0,16338825.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Delta 15 AMD Advantage Edition Ryzen 9 Octa Core 5900HX 5th Gen,AMD Ryzen 9 Octa Core Processor (5th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.8,41.0,8.0,24556410.9,Msi,16,DDR4,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.8,5.0,1.0,9991449.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Strix G15 with 90Whr Battery Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,15.6,5.0,6.0,0.0,27767880.9,Asus,16,DDR4,AMD,1 TB,SSD,2,High-Performance (Gaming/Editing)
+HP OMEN Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,16.1,4.8,4.0,0.0,14733090.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,4 GB DDR4,Windows 10,1 TB HDD,15.6,3.6,84.0,16.0,5948775.899999999,Lenovo,4,DDR4,AMD,1 TB,HDD,1,Budget (School/Basic Use)
+acer Swift 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB LPDDR4X,Windows 10,512 GB SSD,14.0,4.5,29.0,6.0,11617965.0,Acer,8,LPDDR4X,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Strix Scar 15 (2022) Core i9 12th Gen,Intel Core i9 Processor (12th Gen),32 GB DDR5,Windows 11,1 TB SSD,15.6,4.6,10.0,0.0,43246788.48,Asus,32,DDR5,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ALIENWARE Core i9 10th Gen,Intel Core i9 Processor (10th Gen),32 GB DDR4,Windows 10,1 TB SSD,15.6,4.6,10.0,3.0,65247624.9,Dell,32,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+DELL Inspiron 7000 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,3.8,17.0,3.0,11899440.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,1 TB HDD|512 GB SSD,15.6,4.3,222.0,25.0,14355270.9,Acer,16,DDR4,AMD,1 TB,HDD,3,Mid-Range (Work/Productivity)
+Lenovo Legion 5 Pro Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,16.0,4.7,32.0,5.0,24556221.99,Lenovo,16,DDR4,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2022 MacBook AIR M2,Apple M2 Processor,8 GB,Mac OS Operating System,512 GB SSD,13.6,5.0,8.0,2.0,26445510.9,Apple,8,,Apple,512 GB,SSD,0,General Purpose
+HP Pavilion Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,288.0,23.0,13032900.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,87.0,11.0,11804985.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2020 Macbook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.6,1149.0,126.0,20778210.9,Apple,8,DDR4,Apple,512 GB,SSD,0,General Purpose
+SAMSUNG Galaxy Book2 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,15.6,4.6,82.0,13.0,11710530.9,Samsung,8,LPDDR4X,Intel,256 GB,SSD,0,General Purpose
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.1,31.0,2.0,11521620.9,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP OMEN Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,16.1,3.8,5.0,1.0,20780100.0,Hp,16,DDR4,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Strix G15 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,193.0,18.0,14544180.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Infinix INBook X2 Plus Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.2,197.0,43.0,6421050.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Extensa Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.4,385.0,34.0,6043230.899999999,Acer,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE MacBook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.7,8865.0,795.0,20778210.9,Apple,8,DDR4,Apple,512 GB,SSD,0,General Purpose
+ASUS ROG Zephyrus G15 (2020) Ryzen 9 Octa Core 4900HS,AMD Ryzen 9 Octa Core Processor,16 GB DDR4,Windows 10,1 TB SSD,15.6,4.4,193.0,39.0,24556410.9,Asus,16,DDR4,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Infinix ZERO BOOK Series Laptop Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,15.6,4.0,32.0,14.0,9734910.12,Infinix,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+MSI Pulse GL66 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.4,136.0,23.0,27221931.0,Msi,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Infinix INBook X1 Neo Series Celeron Quad Core,Intel Celeron Quad Core Processor,4 GB LPDDR4X,Windows 11,128 GB SSD,14.0,4.2,884.0,151.0,3965220.9,Infinix,4,LPDDR4X,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+acer Nitro 5 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,13.0,1.0,12467871.09,Acer,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+MSI GP66 Leopard Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.6,113.0,27.0,24556410.9,Msi,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,DOS,256 GB HDD|256 GB SSD,15.6,3.7,288.0,26.0,3776310.9,Lenovo,4,LPDDR4,Intel,256 GB,HDD,1,Budget (School/Basic Use)
+HP Victus Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,496.0,41.0,12843990.9,Hp,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS TUF Gaming A17 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,17.3,4.5,533.0,93.0,12201696.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+acer Nitro 5 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.4,497.0,69.0,21781323.0,Acer,16,DDR4,AMD,1 TB,HDD,3,Mid-Range (Work/Productivity)
+acer Aspire 7 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,3065.0,354.0,11710530.9,Acer,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Aspire 3 Pentium Silver,Intel Pentium Silver Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.2,19.0,2.0,5004225.9,Acer,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+MSI Pulse GL66 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.5,153.0,25.0,21722760.9,Msi,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming F17 (2022) Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,17.3,3.9,12.0,0.0,21722760.9,Asus,16,DDR5,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+DELL Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,16.0,4.7,7.0,2.0,11332710.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Vivobook Ultra 14 (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,389.0,44.0,7743420.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2020 Macbook Air M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.6,1149.0,126.0,20778210.9,Apple,8,DDR4,Apple,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming A17 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,17.3,4.5,533.0,93.0,12201696.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+acer Nitro 5 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.4,497.0,69.0,21781323.0,Acer,16,DDR4,AMD,1 TB,HDD,3,Mid-Range (Work/Productivity)
+acer Travelmate Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,14.0,4.1,68.0,6.0,8697416.4,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Ryzen 5 Dual Core 5th Gen,AMD Ryzen 5 Dual Core Processor (5th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,10.0,1.0,10577070.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP Celeron Dual Core,Intel Celeron Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,14.0,3.7,65.0,7.0,4722561.09,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming A17 Ryzen 7 Octa Core 4800H,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 11,1 TB SSD,17.3,4.5,17.0,4.0,14544180.9,Asus,8,DDR4,AMD,1 TB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 3 Quad Core 5300U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,2025.0,257.0,7630074.899999999,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Infinix INBook X1 Neo Series Celeron Quad Core,Intel Celeron Quad Core Processor,4 GB LPDDR4X,Windows 11,128 GB SSD,14.0,4.2,884.0,151.0,3965220.9,Infinix,4,LPDDR4X,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,99.0,13.0,11710530.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,5.0,1.0,12921444.0,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,29.0,2.0,7460055.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro Processor,16 GB,Mac OS Operating System,1 TB SSD,16.2,4.8,119.0,14.0,45714330.9,Apple,16,,Apple,1 TB,SSD,2,High-Performance (Gaming/Editing)
+HP Envy x360 Creator OLED Intel Evo Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X,Windows 11,1 TB SSD,13.3,3.8,6.0,1.0,21722760.9,Hp,16,LPDDR4X,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Infinix ZERO BOOK Series Laptop Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,15.6,4.0,32.0,14.0,9734910.12,Infinix,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,23.0,4.0,9915885.9,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,4.5,97.0,10.0,14733090.9,Asus,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Zephyrus M16 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,16.0,4.3,8.0,0.0,26445510.9,Asus,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+MSI Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,263.0,22.0,11332710.9,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo Yoga Slim 7 Pro Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.7,3.0,0.0,13393719.0,Lenovo,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP 15s Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.0,5.0,0.0,6743898.09,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook S14 OLED (2022) Intel EVO Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,3.9,45.0,9.0,16055460.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Inspiron 3000 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,93.0,10.0,8217585.0,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Zenbook 13 Intel EVO Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,13.3,4.4,72.0,9.0,11521620.9,Asus,8,LPDDR4X,Intel,512 GB,SSD,0,General Purpose
+Lenovo Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,48.0,2.0,7554510.899999999,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Predator Helios 300 Core i9 11th Gen,Intel Core i9 Processor (11th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,5.0,7.0,1.0,26447211.09,Acer,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+acer Predator Helios 300 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,15.6,5.0,4.0,0.0,29562525.9,Acer,16,DDR5,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Avita SATUS S111 Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,128 GB SSD,14.1,3.8,689.0,92.0,3115125.9,Avita,4,DDR4,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+ALIENWARE Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.0,5.0,2.0,47227500.0,Dell,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.7,10.0,0.0,10954890.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 14 (2022) Ryzen 7 Quad Core AMD R7,AMD Ryzen 7 Quad Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.2,1232.0,119.0,8876880.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,16 GB DDR5,Windows 11,512 GB SSD,15.6,3.6,11.0,0.0,16811100.9,Dell,16,DDR5,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Spectre Intel Evo Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,16.0,3.7,3.0,0.0,27486216.09,Hp,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix INBook X2 Plus Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.2,197.0,43.0,6421050.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS Vivobook 15 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,44.0,1.0,7554510.899999999,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP Core i5 7th Gen,Intel Core i5 Processor (7th Gen),8 GB DDR3,Windows 10,256 GB SSD,13.3,4.3,6.0,3.0,11107908.0,Hp,8,DDR3,Intel,256 GB,SSD,0,General Purpose
+ASUS TUF Gaming F15 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.5,499.0,63.0,19172475.9,Asus,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro Processor,16 GB,Mac OS Operating System,1 TB SSD,14.2,4.8,119.0,14.0,41540175.54,Apple,16,,Apple,1 TB,SSD,2,High-Performance (Gaming/Editing)
+HP Victus Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.7,3.0,0.0,13221810.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+DELL Insprion 3511 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,3.6,25.0,4.0,7932330.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS VivoBook Ultra Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,14.0,4.3,74.0,7.0,10954890.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+DELL G15 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.6,213.0,36.0,13750758.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+acer Aspire 5 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.1,85.0,5.0,11359158.3,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+MSI GF65 Thin Core i5 9th Gen,Intel Core i5 Processor (9th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.6,893.0,173.0,14166360.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Zephyrus G15 (2022) with 90Whr Battery Ryzen 7 Octa Core 6800HS,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,1 TB SSD,15.6,4.0,4.0,0.0,29845890.9,Asus,16,DDR5,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,5.0,0.0,11238255.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,3.0,2.0,11049345.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS VivoBook Gaming (2020) Core i7 10th Gen,Intel Core i7 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.3,273.0,41.0,16508844.9,Asus,8,DDR4,Intel,1 TB,HDD,0,General Purpose
+ALIENWARE Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.1,13.0,4.0,40575978.9,Dell,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ALIENWARE Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.9,12.0,0.0,37780110.9,Dell,16,DDR4,Intel,512 GB,SSD,2,High-Performance (Gaming/Editing)
+HP Chromebook Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Chrome OS,256 GB SSD,14.0,4.7,3.0,0.0,11710530.9,Hp,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+Mi Notebook Horizon Edition 14 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.2,569.0,59.0,11332710.9,Mi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+acer Aspire 5 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD,14.0,3.7,337.0,35.0,8876880.9,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Vostro Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,14.96,4.4,171.0,18.0,8064567.899999999,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Gaming Ryzen 5 Quad Core 3550H,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,2208.0,248.0,11332710.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro Processor,16 GB,Mac OS Operating System,512 GB SSD,16.2,4.8,119.0,14.0,42125040.9,Apple,16,,Apple,512 GB,SSD,2,High-Performance (Gaming/Editing)
+ASUS Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.8,5.0,2.0,8121240.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI GP65 Leopard Core i7 10th Gen,Intel Core i7 Processor (10th Gen),32 GB DDR4,Windows 10,1 TB HDD|512 GB SSD,15.6,4.4,316.0,53.0,29486961.9,Msi,32,DDR4,Intel,1 TB,HDD,2,High-Performance (Gaming/Editing)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL G15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,333.0,29.0,13202919.9,Dell,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS VivoBook K15 OLED Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,58.0,7.0,12088350.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL G15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,4.0,12.0,4.0,20589300.9,Dell,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Bravo Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,2239.0,299.0,11051235.0,Msi,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+acer Aspire 3 Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,264.0,31.0,6271812.0,Acer,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 3 Quad Core 5425U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,8.0,0.0,7913439.899999999,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 11,256 GB SSD,14.0,4.2,66.0,8.0,6798870.899999999,Lenovo,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+DELL Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,110.0,22.0,13599630.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,1 TB SSD,15.6,4.5,90.0,18.0,20022570.9,Asus,16,DDR5,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.1,45.0,10.0,11126799.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI Creator Z16 Core i9 11th Gen,Intel Core i9 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,16.0,4.7,3.0,0.0,39858120.9,Msi,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad Slim 5 Ryzen 7 Hexa Core 5700U,AMD Ryzen 7 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,4.0,1.0,12466170.9,Lenovo,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Predator Helios 300 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,2 TB SSD,15.6,4.7,21.0,5.0,28429065.9,Acer,16,DDR4,Intel,2 TB,SSD,2,High-Performance (Gaming/Editing)
+DELL Vostro Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,14.0,4.2,50.0,4.0,8026785.899999999,Dell,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,11.6,3.6,387.0,51.0,3587400.9,Asus,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X,Windows 10,1 TB SSD,13.3,4.5,22.0,3.0,14770872.9,Dell,8,LPDDR4X,Intel,1 TB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 15 Ryzen 3 Dual Core AMD R3,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,405.0,48.0,6609960.899999999,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+acer Predator Helios 300 Core i9 11th Gen,Intel Core i9 Processor (11th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.4,57.0,7.0,22667310.9,Acer,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS EeeBook 12 Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,1 TB HDD,11.6,4.0,20.0,1.0,3587400.9,Asus,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+HP 15s Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.0,5.0,0.0,7460055.899999999,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 7 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,302.0,36.0,12277260.9,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,3.9,37.0,1.0,7233363.899999999,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Infinix X1 Slim Series Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,14.0,4.3,4379.0,580.0,5854320.899999999,Infinix,8,LPDDR4X,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+APPLE MacBook Pro Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR3,Mac OS Operating System,512 GB SSD,13.3,4.2,107.0,13.0,30979350.9,Apple,8,DDR3,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 3 Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.5,24.0,6.0,7934031.09,Acer,4,DDR4,Intel,256 GB,SSD,0,General Purpose
+acer Aspire 5 Ryzen 5 Hexa Core AMD Ryzen 5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,61.0,7.0,10577070.9,Acer,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Ryzen 7 Octa Core 5700U,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,14.0,2.0,16792209.9,Dell,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Vostro Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.0,4.1,9.0,1.0,7686747.899999999,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS (2022) Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,128 GB SSD,11.6,4.1,197.0,18.0,4588623.9,Asus,4,DDR4,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,4.0,0.0,14166360.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Infinix X1 Slim Series Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.2,713.0,103.0,7176690.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.0,5.0,4.0,0.0,7157799.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL G15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,3.8,12.0,6.0,24084135.9,Dell,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Predator Helios 300 Core i5 7th Gen,Intel Core i5 Processor (7th Gen),8 GB DDR4,Windows 10,1 TB HDD|128 GB SSD,15.6,4.5,3221.0,691.0,24558111.09,Acer,8,DDR4,Intel,1 TB,HDD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI Stealth Core i7 8th Gen,Intel Core i7 Processor (8th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.8,5.0,1.0,35097588.9,Msi,16,DDR4,Intel,512 GB,SSD,2,High-Performance (Gaming/Editing)
+DELL Vostro Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.96,4.2,534.0,59.0,7800093.899999999,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.7,6.0,0.0,7308927.899999999,Dell,8,DDR4,AMD,256 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,395.0,43.0,13599630.9,Lenovo,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,29.0,6.0,13694085.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer aspire 5 gaming Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.7,3.0,0.0,11712231.09,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Strix G15 Ryzen 9 Octa Core AMD R9,AMD Ryzen 9 Octa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,87.0,12.0,20022570.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,43.0,7.0,11899440.9,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 5 Quad Core 3450U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,256 GB SSD,15.6,4.0,318.0,28.0,8064567.899999999,Dell,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+MSI Katana GF66 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,256.0,45.0,13977450.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL G15 Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,5.0,1.0,17738649.0,Dell,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI GF63 Thin Core i5 9th Gen,Intel Core i5 Processor (9th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,4351.0,596.0,11051046.09,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP Pavilion Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.8,10.0,0.0,9631198.53,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Vostro Ryzen 5 Quad Core 3500U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,14.0,4.4,17.0,2.0,8895771.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS ZenBook 13 Core i7 8th Gen,Intel Core i7 Processor (8th Gen),8 GB LPDDR3,Windows 10,512 GB SSD,13.3,4.3,40.0,4.0,12655080.9,Asus,8,LPDDR3,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Ideapad Slim 3i (2021) Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 10,256 GB SSD,15.6,3.9,50.0,1.0,7594182.0,Lenovo,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 14 (2022) Core i3 12th Gen,Intel Core i3 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.3,39.0,9.0,9065790.9,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 5 Ryzen 7 Octa Core 5700U,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,5.0,3.0,0.0,11332710.9,Acer,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+HP Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,283.0,17.0,9802539.9,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Pentium Quad Core,Intel Pentium Quad Core Processor,4 GB DDR4,Windows 11,256 GB SSD,15.6,4.1,123.0,18.0,6706305.0,Dell,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP G8 Ryzen 3 Dual Core AMD Ryzen 3 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,17.0,3.0,5382045.899999999,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,123.0,15.0,12277260.9,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Core i7 7th Gen,Intel Core i7 Processor (7th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,3.0,2.0,1.0,27673425.9,Asus,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,29.0,2.0,7688448.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Intel EVO Swift 5 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.8,5.0,0.0,13221810.9,Acer,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Vostro Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,35.0,3.9,89.0,9.0,11918331.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI Alpha 15 Ryzen 7 Octa Core 5800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,413.0,63.0,18700200.9,Msi,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Gaming 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,3.9,117.0,15.0,10935999.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,256 GB SSD,15.6,4.0,53.0,4.0,7724529.899999999,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Vostro Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,212.0,30.0,7686747.899999999,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS ExpertBook B9 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB LPDDR3,Windows 10,1 TB SSD,14.0,5.0,3.0,0.0,29279160.9,Asus,16,LPDDR3,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ASUS ZenBook Classic Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB LPDDR3,Windows 10,512 GB SSD,13.3,4.4,11.0,3.0,15110910.9,Asus,8,LPDDR3,Intel,512 GB,SSD,0,General Purpose
+acer Aspire 3 Ryzen 3 Dual Core R33250U,AMD Ryzen 3 Dual Core Processor,4 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,100.0,14.0,5287590.899999999,Acer,4,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Ryzen 9 Octa Core 10th Gen,AMD Ryzen 9 Octa Core Processor (10th Gen),16 GB DDR4,Windows 11,512 GB SSD,16.6,4.5,6.0,1.0,18700200.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix INBook X2 Plus Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.3,47.0,11.0,8121240.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,256 GB SSD,14.96,4.3,56.0,5.0,8347932.899999999,Dell,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS ZenBook Duo 14 (2021) Touch Panel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,14.0,5.0,3.0,0.0,15110910.9,Asus,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Vostro Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.1,105.0,10.0,8121240.899999999,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Chromebook Flip Touch Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,15.6,4.0,926.0,150.0,4343040.9,Asus,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Zenbook 14 OLED (2022) Intel EVO Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB LPDDR5,Windows 11,512 GB SSD,14.0,4.6,43.0,9.0,20275899.21,Asus,16,LPDDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Core i3 11th Gen,Intel Core i3 Processor (11th Gen),4 GB DDR4,Windows 10,256 GB SSD,15.0,4.3,164.0,14.0,7365600.899999999,Lenovo,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,3881.0,400.0,7176690.899999999,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Strix G15 Advantage Edition with 90Whr Battery Ryzen 9 Octa Core 5980HX,AMD Ryzen 9 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,15.6,4.9,8.0,2.0,28523520.9,Asus,16,DDR4,AMD,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H,AMD Ryzen 7 Octa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,145.0,21.0,14544180.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP Envy x360 Ryzen 5 Hexa Core 5600U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,13.3,4.5,13.0,0.0,14923890.0,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.5,1763.0,254.0,11804985.9,Lenovo,8,DDR4,AMD,1 TB,HDD,0,General Purpose
+ASUS Vivobook Flip Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,3.9,12.0,1.0,15110910.9,Asus,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix INBook X2 Plus Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB LPDDR4X,Windows 11,256 GB SSD,15.6,4.2,126.0,23.0,5854320.899999999,Infinix,8,LPDDR4X,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,4.3,818.0,95.0,7082235.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP 14s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,256 GB SSD,14.0,4.3,2959.0,316.0,7554510.899999999,Hp,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP HP Pavilion Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,2511.0,240.0,12655080.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP 15s Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.1,145.0,9.0,7705261.08,Hp,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD,15.6,4.3,7.0,0.0,8028675.0,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.4,502.0,47.0,11143800.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Predator Helios 300 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.5,2052.0,318.0,22667310.9,Acer,16,DDR4,Intel,1 TB,HDD,3,Mid-Range (Work/Productivity)
+HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,4.3,3881.0,400.0,7367301.09,Hp,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+acer Predator Helios 300 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.3,58.0,9.0,25689870.9,Acer,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+HP Chromebook Intel Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,14.0,4.5,571.0,73.0,16697754.9,Hp,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,13.3,3.7,3.0,2.0,21366476.64,Dell,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ROG Flow X13 Ryzen 7 Octa Core 6800HS,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5,Windows 11,1 TB SSD,13.4,5.0,3.0,0.0,21722760.9,Asus,16,LPDDR5,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,12223.0,1239.0,10578960.0,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Avita SATUS S111 Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB DDR4,Windows 11,128 GB SSD,14.1,3.8,689.0,92.0,3209580.9,Avita,4,DDR4,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+HP 14s Ryzen 3 Quad Core,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,14.0,4.5,872.0,177.0,8482059.0,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP OMEN Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,16.1,4.9,11.0,0.0,18700200.9,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix X1 Slim Series Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,14.0,3.7,114.0,27.0,8876880.9,Infinix,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,191.0,20.0,11427165.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS ExpertBook P1 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD,14.0,3.9,10.0,0.0,11804985.9,Asus,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Athlon Dual Core 3050U,AMD Athlon Dual Core Processor,4 GB DDR4,Windows 10,256 GB SSD,14.0,4.1,14.0,1.0,3965220.9,Lenovo,4,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook Ultra 14 (2022) Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,2836.0,401.0,7932330.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI Core i7 11th Gen,Intel Core i7 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,1006.0,101.0,14449725.9,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.2,913.0,107.0,8102349.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 5 Quad Core 3450U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,125.0,13.0,9424719.9,Dell,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,3.8,21.0,4.0,13127355.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI Crosshair 15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,1 TB SSD,15.6,4.4,40.0,7.0,20967120.9,Msi,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Gaming 3 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,740.0,70.0,11899440.9,Lenovo,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS Core i3 7th Gen,Intel Core i3 Processor (7th Gen),4 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,5344.0,705.0,5476500.899999999,Asus,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Inspiron Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.1,238.0,27.0,8121240.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+MSI Prestige 14 Intel EVO Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB LPDDR4X,Windows 10,512 GB SSD,14.0,4.5,11.0,1.0,14166360.9,Msi,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Nitro 5 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,313.0,31.0,11332710.9,Acer,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS ZenBook Pro 15 Core i9 8th Gen,Intel Core i9 Processor (8th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,5.0,4.0,0.0,39612537.9,Asus,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+MSI Prestige 14 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,14.0,4.0,97.0,12.0,14166360.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Infinix INBook X2 Plus Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.3,47.0,11.0,8121240.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP HP Envy Ryzen 7 Octa Core 4700U,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,13.3,4.3,8.0,0.0,15415056.0,Hp,16,DDR4,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming F15 (2022) Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,15.6,4.1,32.0,3.0,23234040.9,Asus,16,DDR5,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Ideapad AMD Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,17.0,4.0,9065790.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS Vivobook 14 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 10,1 TB HDD,14.1,3.5,74.0,12.0,5790091.5,Asus,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP 15s Ryzen 5 Quad Core 3500U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,845.0,117.0,9931943.25,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 10,256 GB SSD,15.6,5.0,1.0,1.0,7157799.899999999,Lenovo,4,DDR4,Intel,256 GB,SSD,0,General Purpose
+HP Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.7,6.0,0.0,7535619.899999999,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Infinix X1 Slim Series Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X,Windows 11,512 GB SSD,14.0,4.2,713.0,103.0,7176690.899999999,Infinix,8,LPDDR4X,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 14 Core i3 7th Gen,Intel Core i3 Processor (7th Gen),4 GB DDR4,Windows 10,256 GB SSD,14.0,4.3,5546.0,790.0,6421050.899999999,Asus,4,DDR4,Intel,256 GB,SSD,0,General Purpose
+Avita PURA APU Dual Core A6 9220e,AMD APU Dual Core A6 Processor,8 GB DDR4,Windows 10,256 GB SSD,14.0,3.6,1857.0,268.0,4626405.9,Avita,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+HP 15s Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,125.0,9.0,11956113.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP 15s Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,125.0,9.0,11956113.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP 15s Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,849.0,80.0,10382493.6,Hp,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.7,6.0,0.0,7535619.899999999,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Avita PURA APU Dual Core A6 9220e,AMD APU Dual Core A6 Processor,8 GB DDR4,Windows 10,256 GB SSD,14.0,3.6,1857.0,268.0,4626405.9,Avita,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+acer Nitro 5 Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,222.0,25.0,12843990.9,Acer,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS ZenBook S Core i7 8th Gen,Intel Core i7 Processor (8th Gen),16 GB DDR3,Windows 10,512 GB SSD,13.3,4.3,30.0,7.0,18889110.9,Asus,16,DDR3,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming F17 (2022) with 90Whr Battery Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,17.3,4.4,105.0,18.0,17944560.9,Asus,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS VivoBook 15 Ryzen 3 Dual Core AMD R3,AMD Ryzen 3 Dual Core Processor,4 GB DDR4,Windows 10,256 GB SSD,15.6,4.3,1654.0,225.0,5098680.9,Asus,4,DDR4,AMD,256 GB,SSD,0,General Purpose
+HP 15s Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,545.0,68.0,7926663.6,Hp,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+acer Nitro 5 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,1 TB HDD|512 GB SSD,15.6,4.3,222.0,25.0,13032900.9,Acer,8,DDR4,AMD,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,15.6,4.8,5.0,1.0,28262825.1,Asus,16,DDR5,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ASUS VivoBook K15 OLED (2022) Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.3,652.0,85.0,12088350.9,Asus,16,DDR4,Intel,1 TB,HDD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Dual Core 3020e,AMD Dual Core Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.1,114.0,15.0,5287590.899999999,Lenovo,4,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+GIGABYTE G5 GD Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.6,8.0,3.0,13032900.9,Gigabyte,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.5,912.0,122.0,11427165.9,Lenovo,8,DDR4,AMD,1 TB,HDD,0,General Purpose
+acer Swift 5 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR3,Windows 10,512 GB SSD,14.0,4.2,6.0,3.0,13101097.41,Acer,8,DDR3,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Gaming Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.6,10.0,1.0,14923890.0,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Dual Core 3020e,AMD Dual Core Processor,4 GB DDR4,Windows 11,256 GB SSD,14.0,4.1,114.0,15.0,5287590.899999999,Lenovo,4,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Gaming Ryzen 5 Hexa Core AMD R5,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,3.9,70.0,7.0,12090240.0,Hp,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Core i9 10th Gen,Intel Core i9 Processor (10th Gen),32 GB DDR4,Windows 10,1 TB SSD,15.6,4.8,8.0,1.0,51003810.9,Asus,32,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Celeron Dual Core 4th Gen,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4,Windows 10,256 GB SSD,14.0,4.1,944.0,93.0,4909770.9,Lenovo,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,210.0,30.0,9558846.0,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP OMEN Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,512 GB SSD,16.1,4.3,39.0,6.0,20457063.9,Hp,16,DDR5,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,DOS,256 GB SSD,15.6,3.7,128.0,16.0,7176690.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook 14 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.1,4.3,25.0,3.0,7365600.899999999,Asus,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP 255 G8 Ryzen 3 Dual Core AMD Ryzen3 3250,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,4.0,0.0,6793203.6,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Gaming Ryzen 5 Hexa Core 4600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.6,35.0,6.0,15112800.0,Hp,8,DDR4,AMD,1 TB,HDD,0,General Purpose
+ASUS Core i3 11th Gen,Intel Core i3 Processor (11th Gen),4 GB DDR4,Windows 11,256 GB SSD,14.0,4.0,106.0,13.0,5854320.899999999,Asus,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook Ultra K15 OLED Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,494.0,72.0,8687970.9,Asus,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+DELL Inspiron Ryzen 7 Octa Core 5700U,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,14.0,4.2,34.0,5.0,16244370.9,Dell,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F17 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,17.3,4.8,12.0,0.0,13977450.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,29.0,2.0,7554510.899999999,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,308.0,42.0,8215695.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,1 TB HDD,14.0,4.1,209.0,29.0,4909770.9,Asus,4,LPDDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Spin 7 Core i7 7th Gen,Intel Core i7 Processor (7th Gen),8 GB DDR3,Windows 10,256 GB SSD,14.0,4.0,1.0,1.0,22667310.9,Acer,8,DDR3,Intel,256 GB,SSD,0,General Purpose
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Ryzen 7 Octa Core 5800U,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR4X,Windows 10,1 TB SSD,13.3,3.0,2.0,1.0,15110910.9,Asus,16,LPDDR4X,AMD,1 TB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+MSI GL Core i7 7th Gen,Intel Core i7 Processor (7th Gen),8 GB DDR4,DOS,1 TB HDD,15.6,3.5,6.0,1.0,11332710.9,Msi,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL G15 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR5,Windows 11,512 GB SSD,15.6,4.1,35.0,5.0,16055460.9,Dell,16,DDR5,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Ideapad 720S Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,512 GB SSD,13.3,3.3,3.0,1.0,14166360.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Pavilion Gaming Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,15.6,4.4,479.0,57.0,12976227.9,Hp,8,DDR4,Intel,1 TB,HDD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+MSI GP76 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,17.3,4.5,27.0,6.0,34190820.9,Msi,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP 15s Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.1,1147.0,119.0,7603627.5,Hp,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,3.5,6.0,1.0,11691639.9,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP Intel Core i5 10th Gen,Intel Core i5 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,3.7,3.0,0.0,18418725.0,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS ZenBook 13 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB LPDDR3,Windows 10,512 GB SSD,13.3,4.2,50.0,4.0,14071905.9,Asus,8,LPDDR3,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.0,15.0,5.0,13977450.9,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+MSI GS Core i7 8th Gen,Intel Core i7 Processor (8th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.1,10.0,3.0,28334610.9,Msi,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS TUF Gaming A17 Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 10,512 GB SSD,17.3,4.5,1468.0,194.0,16244370.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Victus Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,16.1,4.2,9.0,2.0,11145690.0,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP Intel Core i5 10th Gen,Intel Core i5 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,3.7,3.0,0.0,18418725.0,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.0,15.0,5.0,13977450.9,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+APPLE 2020 Macbook Pro M1,Apple M1 Processor,8 GB DDR4,Mac OS Operating System,512 GB SSD,13.3,4.5,481.0,50.0,24556410.9,Apple,8,DDR4,Apple,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,9991449.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Infinix INBook X2 Plus Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,15.6,4.3,26.0,6.0,10010340.9,Infinix,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,5145.0,564.0,11332710.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP 15s Intel Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.8,45.0,6.0,11523510.0,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,280.0,21.0,10010340.9,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,3.7,36.0,3.0,5948775.899999999,Hp,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+MICROSOFT Surface Laptop 3 Ryzen 5 Quad Core 3580U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,128 GB SSD,15.0,3.8,9.0,0.0,18889110.9,Microsoft,8,DDR4,AMD,128 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.2,247.0,21.0,10588216.59,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,1603.0,184.0,8886137.49,Lenovo,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+MSI GF63 Thin Core i5 9th Gen,Intel Core i5 Processor (9th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,1197.0,151.0,11332710.9,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+ASUS Chromebook Flip Touch Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,11.6,4.0,1853.0,287.0,4343040.9,Asus,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Nitro 5 Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.5,4.0,1.0,16151616.09,Acer,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Legion 5 Pro Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 11,1 TB SSD,16.0,4.6,49.0,3.0,28737744.84,Lenovo,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+DELL G7 Core i9 10th Gen,Intel Core i9 Processor (10th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.3,22.0,3.0,39008025.9,Dell,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+Lenovo IdeaPad Flex 3 Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4X,Chrome OS,1 TB SSD,11.6,3.6,153.0,22.0,5382045.899999999,Lenovo,4,LPDDR4X,Intel,1 TB,SSD,1,Budget (School/Basic Use)
+DELL Vostro 3000 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,1 TB HDD,14.0,4.0,1371.0,177.0,8524752.66,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i9 11th Gen,Intel Core i9 Processor (11th Gen),16 GB DDR4,Windows 10,1 TB SSD,15.6,4.4,9.0,3.0,27390060.9,Asus,16,DDR4,Intel,1 TB,SSD,2,High-Performance (Gaming/Editing)
+ASUS Vivobook Gaming Core i7 10th Gen,Intel Core i7 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,76.0,7.0,12466170.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Inspiron Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,14.0,4.4,293.0,39.0,12560625.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+DELL Vostro Core i3 11th Gen,Intel Core i3 Processor (11th Gen),4 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,35.0,4.2,33.0,7.0,8140131.899999999,Dell,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 11,256 GB SSD,15.6,3.6,22.0,4.0,6326595.899999999,Lenovo,8,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 5 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,566.0,61.0,8903328.3,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP 250 G8 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,DOS,512 GB SSD,15.6,4.0,52.0,8.0,7556211.09,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i7 11th Gen,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,28.0,3.0,18872109.0,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,8.0,0.0,12900663.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 5th Gen,Intel Core i5 Processor (5th Gen),8 GB DDR3,Windows 10,1 TB HDD,15.6,1.6,23.0,4.0,13032900.9,Dell,8,DDR3,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL 7000 Series Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,14.0,4.8,4.0,0.0,20003679.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS VivoBook 14 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.4,2298.0,307.0,10388160.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo IdeaPad Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.2,116.0,16.0,10954890.9,Lenovo,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+MSI GF63 Thin Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.1,1235.0,159.0,10286149.5,Msi,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS ROG Strix G15 (2022) Ryzen 7 Octa Core AMD R7,AMD Ryzen 7 Octa Core Processor,16 GB DDR5,Windows 11,1 TB SSD,15.6,4.0,17.0,4.0,20400390.9,Asus,16,DDR5,AMD,1 TB,SSD,3,Mid-Range (Work/Productivity)
+RedmiBook 15 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.2,4443.0,518.0,8499060.9,Redmibook,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Ideapad 520 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,2 TB HDD,15.6,3.3,4.0,0.0,12245335.11,Lenovo,8,DDR4,Intel,2 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Spectre x360 Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,13.3,3.3,3.0,1.0,30979350.9,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,187.0,16.0,13032900.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+lenovo Yoga 7 Core i7 11th Gen Intel EVO,Intel Core i7 Processor (11th Gen),16 GB DDR4,Windows 10,512 GB SSD,14.0,4.7,86.0,14.0,20022570.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL 5000 Core i5 7th Gen,Intel Core i5 Processor (7th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.4,295.0,71.0,14544180.9,Dell,8,DDR4,Intel,1 TB,HDD,0,General Purpose
+Lenovo B50,Intel Core i5 Processor (4th Gen),8 GB DDR3,Windows 8,1 TB HDD,15.6,3.8,78.0,17.0,9915885.9,Lenovo,8,DDR3,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+MSI GF63 Thin Core i7 9th Gen,Intel Core i7 Processor (9th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,1667.0,232.0,12655080.9,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Inspiron Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,3.0,0.0,10425942.9,Dell,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Vaio SE Series Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,3.8,84.0,13.0,11880549.9,Vaio,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Extensa Pentium Quad Core,Intel Pentium Quad Core Processor,4 GB DDR4,Windows 11,256 GB SSD,15.6,4.4,12.0,3.0,4684968.0,Acer,4,DDR4,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+MSI Modern 14 Core i7 11th Gen,Intel Core i7 Processor (11th Gen),8 GB DDR4,Windows 10,512 GB SSD,14.0,4.6,21.0,3.0,15224256.9,Msi,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP Pavilion Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,70.0,7.0,11993895.9,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL G15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,38.0,6.0,13977450.9,Dell,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,21.0,2.0,8499060.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+acer Aspire 5 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,121.0,27.0,11332710.9,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL Inspiron 3501 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,256 GB SSD,14.96,4.3,4.0,0.0,7497837.899999999,Dell,8,DDR4,Intel,256 GB,SSD,0,General Purpose
+DELL G15 Core i7 12th Gen,Intel Core i7 Processor (12th Gen),16 GB DDR5,Windows 11,1 TB SSD,15.6,4.0,11.0,0.0,28334610.9,Dell,16,DDR5,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS TUF Gaming F15 Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.5,5145.0,564.0,12277260.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP Chromebook x360 Intel Celeron Quad Core,Intel Celeron Quad Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,14.0,3.8,26.0,3.0,5287590.899999999,Hp,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+acer Aspire 5 Gaming Core i5 12th Gen,Intel Core i5 Processor (12th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.8,4.0,0.0,12316932.0,Acer,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 10,1 TB HDD,15.6,3.9,47.0,4.0,7488959.13,Hp,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS Vivobook Core i3 11th Gen,Intel Core i3 Processor (11th Gen),4 GB DDR4,Windows 10,256 GB SSD,14.0,4.5,79.0,10.0,6609960.899999999,Asus,4,DDR4,Intel,256 GB,SSD,0,General Purpose
+ASUS EeeBook 12 Celeron Dual Core 4th Gen,Intel Celeron Dual Core Processor (4th Gen),4 GB DDR4,Windows 10,512 GB HDD|512 GB SSD,11.6,3.9,199.0,20.0,3965220.9,Asus,4,DDR4,Intel,512 GB,HDD,1,Budget (School/Basic Use)
+HP Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.0,4.0,0.0,8217585.0,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Ideapad 330s Core i5 8th Gen,Intel Core i5 Processor (8th Gen),4 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,21.0,5.0,10765980.9,Lenovo,4,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB HDD,15.6,4.7,3.0,0.0,6914106.0,Hp,8,DDR4,AMD,256 GB,HDD,0,General Purpose
+HP 15s Ryzen 3 Quad Core 5300U,AMD Ryzen 3 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,274.0,42.0,7650666.09,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+HP Pavilion Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,14.0,4.1,27.0,2.0,10748979.0,Hp,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+acer Nitro 5 Spin Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,163.0,58.0,14972628.78,Acer,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+DELL GAMING G5 SERIES Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.2,6.0,0.0,13202919.9,Dell,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP Intel Core i5 10th Gen,Intel Core i5 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,13.3,5.0,2.0,1.0,23991570.0,Hp,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+acer Aspire 7 Core i5 9th Gen,Intel Core i5 Processor (9th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.4,2952.0,364.0,10784871.9,Acer,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,569.0,53.0,9538065.9,Hp,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS VivoBook S14 Core i7 8th Gen,Intel Core i7 Processor (8th Gen),8 GB DDR4,Windows 10,1 TB HDD|256 GB SSD,14.0,4.4,994.0,172.0,12843990.9,Asus,8,DDR4,Intel,1 TB,HDD,0,General Purpose
+acer Swift 5 Core i5 8th Gen,Intel Core i5 Processor (8th Gen),8 GB DDR3,Windows 10,256 GB SSD,14.0,4.0,15.0,3.0,15490242.18,Acer,8,DDR3,Intel,256 GB,SSD,1,Budget (School/Basic Use)
+ASUS ROG Strix G15 (2022) with 90Whr Battery Ryzen 9 Octa Core 6900HX,AMD Ryzen 9 Octa Core Processor,16 GB DDR4,Windows 11,1 TB SSD,15.6,3.7,6.0,1.0,35513190.9,Asus,16,DDR4,AMD,1 TB,SSD,2,High-Performance (Gaming/Editing)
+MSI Modern 14 Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.4,3189.0,430.0,8687970.9,Msi,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+ASUS TUF GAMING A15 Ryzen 7 Octa Core 4800H,AMD Ryzen 7 Octa Core Processor,16 GB DDR4,Windows 11,512 GB SSD,15.6,4.7,3.0,0.0,16811100.9,Asus,16,DDR4,AMD,512 GB,SSD,3,Mid-Range (Work/Productivity)
+HP Pavilion Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.1,41.0,2.0,12636189.9,Hp,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Nokia PureBook S14 Core i5 11th Gen,Intel Core i5 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,14.0,4.0,94.0,20.0,9065790.9,Nokia,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo IdeaPad 3 Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,128 GB SSD,11.6,3.5,1386.0,164.0,3209580.9,Lenovo,4,LPDDR4,Intel,128 GB,SSD,1,Budget (School/Basic Use)
+Lenovo V15 G2 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.4,53.0,3.0,7084125.0,Lenovo,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core Processor,8 GB DDR4,Windows 11,256 GB SSD,15.6,3.8,40.0,3.0,5287590.899999999,Hp,8,DDR4,AMD,256 GB,SSD,1,Budget (School/Basic Use)
+Vaio E Series Ryzen 5 Quad Core 3500U,AMD Ryzen 5 Quad Core Processor,8 GB DDR4,Windows 10,512 GB SSD,15.6,4.0,706.0,142.0,7932330.899999999,Vaio,8,DDR4,AMD,512 GB,SSD,1,Budget (School/Basic Use)
+MSI Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,3.6,57.0,11.0,13882995.9,Msi,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+Avita Liber Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB DDR4,Windows 10,1 TB SSD,14.0,3.8,318.0,59.0,9821430.9,Avita,16,DDR4,Intel,1 TB,SSD,3,Mid-Range (Work/Productivity)
+Infinix X1 Slim Series Core i7 10th Gen,Intel Core i7 Processor (10th Gen),16 GB LPDDR4X,Windows 11,512 GB SSD,14.0,3.7,114.0,27.0,8876880.9,Infinix,16,LPDDR4X,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+ASUS Chromebook Celeron Dual Core,Intel Celeron Dual Core Processor,4 GB LPDDR4,Chrome OS,512 GB SSD,14.0,3.8,1135.0,167.0,4154130.9,Asus,4,LPDDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS VivoBook 15 Core i3 10th Gen,Intel Core i3 Processor (10th Gen),8 GB DDR4,Windows 10,1 TB HDD,15.6,4.0,1907.0,227.0,7176690.899999999,Asus,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+HP Chromebook MediaTek Kompanio 500,MediaTek MediaTek Kompanio 500 Processor,4 GB LPDDR4X,Chrome OS,1 TB HDD,11.6,3.8,5991.0,687.0,4282589.7,Hp,4,LPDDR4X,MediaTek,1 TB,HDD,1,Budget (School/Basic Use)
+ASUS Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,14.0,4.5,22.0,5.0,10388160.9,Asus,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+DELL Inspiron Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD|256 GB SSD,15.6,4.0,801.0,104.0,7743420.899999999,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+Lenovo IdeaPad 3 Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,4658.0,449.0,7310628.09,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS Vivobook Gaming Core i7 10th Gen,Intel Core i7 Processor (10th Gen),8 GB DDR4,Windows 10,512 GB SSD,15.6,4.3,76.0,7.0,12466170.9,Asus,8,DDR4,Intel,512 GB,SSD,0,General Purpose
+DELL Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,1 TB HDD,15.6,4.3,7.0,0.0,8028675.0,Dell,8,DDR4,Intel,1 TB,HDD,1,Budget (School/Basic Use)
+DELL Ryzen 5 Hexa Core 5625U,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4,Windows 11,512 GB SSD,16.0,4.7,7.0,2.0,11332710.9,Dell,8,DDR4,AMD,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i3 11th Gen,Intel Core i3 Processor (11th Gen),8 GB DDR4,Windows 11,512 GB SSD,15.6,4.3,453.0,38.0,7273035.0,Lenovo,8,DDR4,Intel,512 GB,SSD,1,Budget (School/Basic Use)
+ASUS TUF Dash F15 (2022) Core i5 12th Gen,Intel Core i5 Processor (12th Gen),8 GB DDR5,Windows 11,512 GB SSD,15.6,4.5,97.0,10.0,14545881.09,Asus,8,DDR5,Intel,512 GB,SSD,0,General Purpose
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Core i3 10th Gen,Intel Core i3 Processor (10th Gen),4 GB DDR4,Windows 10,256 GB SSD,15.6,5.0,1.0,1.0,7157799.899999999,Lenovo,4,DDR4,Intel,256 GB,SSD,0,General Purpose
+HP Intel Core i5 10th Gen,Intel Core i5 Processor (10th Gen),16 GB DDR4,Windows 10,512 GB SSD,15.6,3.7,3.0,0.0,18418725.0,Hp,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
+Lenovo Intel Core i5 11th Gen,Intel Core i5 Processor (11th Gen),16 GB DDR4,Windows 11,512 GB SSD,15.6,4.5,14.0,1.0,11899440.9,Lenovo,16,DDR4,Intel,512 GB,SSD,3,Mid-Range (Work/Productivity)
